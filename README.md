@@ -111,4 +111,4 @@ This project was created to practice:
 
 ## Author
 
-Anuvardhini
+Anuvardhini T
